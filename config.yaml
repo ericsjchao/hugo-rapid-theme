@@ -1,4 +1,4 @@
-title: "GoSeven"
+title: "goseven"
 languageCode: "zh-CN"
 baseurl: "http://goseven.me/"
 theme: "hugo-rapid-theme"
@@ -19,7 +19,7 @@ Taxonomies:
   category: "categories"
 params:
   CopyrightHTML: "Copyright &#xA9; 2016. All Rights Reserved."
-  GitHubUser: "goseven"
+  GitHubUser: "ericsjchao"
   SidebarRecentLimit: 5
   DateForm : "2015年02月06日"
   Tagline: "一个程序员的思考与总结"
